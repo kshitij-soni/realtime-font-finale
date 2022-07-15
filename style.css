@@ -1,0 +1,35 @@
+.Heading {
+    margin-top:0;
+    width:100%;
+    padding-left: 10px;
+    font-size:20px;
+    text-align:center;
+    color:rgb(149, 46, 6);
+    height: 12%;
+    padding:8px;
+    background-color: rgb(225, 155, 24);
+}
+  
+body {
+    background-image:linear-gradient(rgb(237, 237, 115),rgb(237, 237, 31));   
+}
+
+.Footer {
+    position:fixed;
+    bottom:0;
+    width:100%;
+    color:rgb(12, 247, 94);
+    height: 6%; 
+    background-color: black;
+    padding:5px;
+    margin-bottom:0;
+    text-align:center;
+}
+
+Canvas {
+    border:5px solid black;
+    border-radius:20px;
+}
+
+
+
